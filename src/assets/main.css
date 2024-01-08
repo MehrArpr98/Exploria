@@ -1,0 +1,12 @@
+.pagination ul::-webkit-scrollbar {
+  height: 4px;
+}
+
+.pagination ul::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background: #99c2be;
+}
+
+.pagination ul::-webkit-scrollbar-track {
+  border: 1px solid rgb(196, 196, 196);
+}
